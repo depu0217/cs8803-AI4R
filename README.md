@@ -1,1 +1,1 @@
-# cs8803-AI4R
+# Georgia Tech AI for Robotics class
